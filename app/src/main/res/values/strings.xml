@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Myshop</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezes</string>
+    <string name="registration">Regisztráció</string>
+    <string name="user_name">Felhasználónév</string>
+    <string name="email_address">E-mail cím</string>
+    <string name="password_again">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="phone_number">Telefonszám</string>
+    <string name="address">Postai_cím</string>
+    <string name="buyer">vásárló</string>
+    <string name="seller">Eladó</string>
+    <string name="googlelogin">Bejelentkezés google fiókkal</string>
+    <string name="telekatt">TeleKatt</string>
+    <string name="telekatt_logo">TeleKatt logo</string>
+    <string name="loginguest">Bejelentkezés vendégként</string>
+    <string name="e_mail_c_m">E-mail cím</string>
+    <string name="bejelentkez_s_vend_gk_nt">Bejelentkezés vendégként</string>
+    <string name="bejelentkez_s_vend_gk_ntt">Bejelentkezés vendégként</string>
+    <string-array name="phone_modes">
+        <item>Otthoni</item>
+        <item>Munkahelyi</item>
+        <item>Mobil</item>
+        <item>Egyéb</item>
+    </string-array>
+</resources>
