@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cartMainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/cartRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/cartTotalTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Összesen: 0 Ft"
+        android:textSize="18sp"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/backToShopButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vissza a főoldalra"/>
+    <Button
+        android:id="@+id/notifyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Emlékeztető küldése"
+        android:layout_marginTop="8dp" />
+</LinearLayout>

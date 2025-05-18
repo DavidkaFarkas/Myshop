@@ -19,6 +19,7 @@
     <string name="e_mail_c_m">E-mail cím</string>
     <string name="bejelentkez_s_vend_gk_nt">Bejelentkezés vendégként</string>
     <string name="bejelentkez_s_vend_gk_ntt">Bejelentkezés vendégként</string>
+    <string name="kosar">Kosár</string>
     <string-array name="phone_modes">
         <item>Otthoni</item>
         <item>Munkahelyi</item>

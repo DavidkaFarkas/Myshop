@@ -7,4 +7,5 @@
     <color name="dark_gray">#424242</color>
     <color name="background_light_gray">#D3D3D3</color>
     <color name="button_color">#4B0082</color>
+    <color name="red">#FFF00000</color>
 </resources>
